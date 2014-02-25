@@ -1,4 +1,11 @@
 this is another text file to check the uncommited changes remains but how can we switch the branches 
 commiting it to the new_branch at first 
+then making change again and try to switch to master without commiting this change
+
+i cannot switch to another branch  if i have uncommmited changes  on this branch (to already tracked files)
+then i can either 
+	scrap changes and switch 
+	commite changes and switch 
+	stash changes and switch 
 
 
