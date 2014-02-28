@@ -1,0 +1,2 @@
+this is for checking whether checkout a branch starts automatic tracking or not ..
+
